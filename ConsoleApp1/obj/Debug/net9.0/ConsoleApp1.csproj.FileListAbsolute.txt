@@ -13,3 +13,4 @@ c:\Users\Matheus Rodrigues\Desktop\Trabalho Arquivos\ConsoleApp1\obj\Debug\net9.
 c:\Users\Matheus Rodrigues\Desktop\Trabalho Arquivos\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.genruntimeconfig.cache
 c:\Users\Matheus Rodrigues\Desktop\Trabalho Arquivos\ConsoleApp1\obj\Debug\net9.0\ref\ConsoleApp1.dll
 c:\Users\Matheus Rodrigues\Desktop\Trabalho Arquivos\ConsoleApp1\bin\Debug\net9.0\arquivo.txt
+c:\Users\Matheus Rodrigues\Desktop\Trabalho Arquivos\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.sourcelink.json
